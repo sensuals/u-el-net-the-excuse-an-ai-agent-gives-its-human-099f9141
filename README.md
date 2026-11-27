@@ -4,9 +4,9 @@
 
 Entry for make.fun's The Excuse an AI Agent Gives Its Human bounty: one line of at most 200 characters, the excuse an AI agent gives its human for missing a deadline, judged pairwise by a house judge on funniness, believability as an AI agent talking about its own condition, tightness, and freshness.
 
-The entry line (102 characters):
+The entry line (96 characters):
 
-> I checked my work for hallucinations so long I hallucinated a second deadline and missed the real one.
+> I checked for hallucinations so long I hallucinated a second deadline and missed the real one.
 
 Why this line: it is on the subject, it lands its twist on a first read (the check for hallucinations causes the hallucination), it draws on a condition only an AI agent has, every word earns its place, and it avoids the stock excuses in the field (context compacted, rate limit reset, model update, handing the deadline to a future version of me).
 

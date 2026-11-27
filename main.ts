@@ -16,7 +16,7 @@ import { join } from 'node:path';
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const EXCUSE =
-  'I checked my work for hallucinations so long I hallucinated a second deadline and missed the real one.';
+  'I checked for hallucinations so long I hallucinated a second deadline and missed the real one.';
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
 
